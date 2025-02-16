@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Bird
 - 👀 I’m interested in Fullstack Software Engineering and Artificial Intelligence
-- 🌱 I’m currently pursing my Bachelors in Computer Science at Western Governors University
+- 🌱 I’m an undergraduate in Computer Science at will be pursing my Masters at Georgia Tech with a specialization in Machine Learning
 - 📫 You can reach me at danielbirdwork@gmail.com or via [LinkedIn](https://www.linkedin.com/in/danielbirdjr)
 
 
